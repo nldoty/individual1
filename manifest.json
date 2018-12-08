@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
     "name": "Individual-1",
-    "description": "Changes instances of 'Donald Trump' to 'Individual-1'",
+    "description": "Changes instances of 'Donald Trump' to 'Individual-1. \n Source code can be found at https://github.com/nldoty/individual1",
     "version": "0.1",
     "icons": {
       "16": "images/djt_16.png",
